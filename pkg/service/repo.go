@@ -248,9 +248,7 @@ func configureAuthOptions(cfg *RepositoryConfig) (transport.AuthMethod, error) {
 				publicKeysUser = cfg.Auth.Username
 			}
 
-			if publicKeysUser == "" {
-				publicKeysUser = "git"
-			}
+			publicKeysUser = "caddy"
 
 			publicKeys, err := ssh.NewPublicKeysFromFile(publicKeysUser, cfg.Auth.KeyPath, cfg.Auth.KeyPassphrase)
 			if err != nil {
