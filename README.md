@@ -1,7 +1,7 @@
 # caddy-git
 
-<a href="https://github.com/riddle233/caddy-git/actions/" target="_blank"><img src="https://github.com/riddle233/caddy-git/workflows/build/badge.svg?branch=main"></a>
-<a href="https://pkg.go.dev/github.com/riddle233/caddy-git" target="_blank"><img src="https://img.shields.io/badge/godoc-reference-blue.svg"></a>
+<a href="https://github.com/greenpau/caddy-git/actions/" target="_blank"><img src="https://github.com/greenpau/caddy-git/workflows/build/badge.svg?branch=main"></a>
+<a href="https://pkg.go.dev/github.com/greenpau/caddy-git" target="_blank"><img src="https://img.shields.io/badge/godoc-reference-blue.svg"></a>
 <a href="https://caddy.community" target="_blank"><img src="https://img.shields.io/badge/community-forum-ff69b4.svg"></a>
 <a href="https://caddyserver.com/docs/modules/git" target="_blank"><img src="https://img.shields.io/badge/caddydocs-git-green.svg"></a>
 

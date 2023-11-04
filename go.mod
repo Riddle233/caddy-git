@@ -1,4 +1,4 @@
-module github.com/riddle233/caddy-git
+module github.com/greenpau/caddy-git
 
 go 1.20
 
